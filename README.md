@@ -2,7 +2,9 @@
 **Learn to Represent and Suppress Smears with Imaging Mechanism Guided Neural Network**
 
 # Network Framework
-<img src="./readme/flowchart.png" alt="Logo" width="400"/>
+<div align="center">
+    <img src="./readme/flowchart.png" alt="Logo" width="600"/>
+</div>
 
 # Smear Image
 <img src="./readme/output.png" alt="Logo" width="800"/>
